@@ -1,9 +1,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import router from './stores'
+import router from '@/router'
 
 import "normalize.css"
-import "@/assets/css/reset.css"
+import "@/assets/css/index.css"
 
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 
